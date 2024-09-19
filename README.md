@@ -16,6 +16,7 @@ The target variable (loan_status) had the following value counts:
    
 ## **Results**
 **Machine Learning Model Performance**
+
 +**Logistic Regression Model:**
 
  + Accuracy: 99%
