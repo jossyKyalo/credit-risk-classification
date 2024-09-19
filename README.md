@@ -1,9 +1,10 @@
 Credit Risk Analysis Report
+
 Overview of the Analysis
 The purpose of this analysis is to evaluate the performance of machine learning models in predicting credit risk. This involves assessing how well the models can classify loans as either 0 (healthy loan) or 1 (high-risk loan). By analyzing the accuracy, precision, and recall scores of the models, we aim to determine their effectiveness in identifying high-risk loans and ensuring the financial stability of the institution.
 
 Results
-Model Name: [Insert Model Name]
+Model Name: CreditRisk Classifier
 
 Accuracy Score:
 
