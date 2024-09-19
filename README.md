@@ -6,8 +6,10 @@ The dataset included financial information about loan applicants, such as credit
 
 **Key Variables:**
 The target variable (loan_status) had the following value counts:
-0 (Healthy Loans): 75036
-1 (High-Risk Loans): 2500
+
++ 0 (Healthy Loans): 75036
+
++ 1 (High-Risk Loans): 2500
 
 **Machine Learning Process:**
 1. Model Selection: Implemented multiple Logistic Regression 
@@ -17,7 +19,7 @@ The target variable (loan_status) had the following value counts:
 ## **Results**
 **Machine Learning Model Performance**
 
-+**Logistic Regression Model:**
+**Logistic Regression Model:**
 
  + Accuracy: 99%
    
