@@ -1,5 +1,5 @@
-**Module 12 Report**
-**Overview of the Analysis**
+# **Module 12 Report**
+## **Overview of the Analysis**
 In this analysis, we evaluated various machine learning models to predict credit risk associated with loan applications. The primary goal was to classify loans as either 0 (healthy loan) or 1 (high-risk loan), providing the financial institution with insights to make informed lending decisions.
 
 The dataset included financial information about loan applicants, such as credit history, income, loan amount, and other relevant features. Our aim was to predict the likelihood of loan default based on these factors.
@@ -14,7 +14,7 @@ The target variable (loan_status) had the following value counts:
 2. Model Training: Trained the models using training data and validated them with test data.
 3. Performance Evaluation: Assessed models using metrics like accuracy, precision, and recall.
    
-**Results**
+## **Results**
 **Machine Learning Model Performance**
 -**Logistic Regression Model:**
 
@@ -24,7 +24,7 @@ The target variable (loan_status) had the following value counts:
 -Recall (Healthy Loans): 1.00
 -Recall (High-Risk Loans): 0.91
 
-**Summary**
+## **Summary**
 The Logistic Regression model performed the best among the evaluated models, achieving an accuracy of 99% with perfect precision and recall for healthy loans, and strong scores for high-risk loans. This suggests that it is highly effective in identifying both loan types, which is crucial for minimizing financial risk.
 
 **Recommendations:**
