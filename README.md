@@ -16,13 +16,17 @@ The target variable (loan_status) had the following value counts:
    
 ## **Results**
 **Machine Learning Model Performance**
--**Logistic Regression Model:**
++**Logistic Regression Model:**
 
--Accuracy: 99%
--Precision (Healthy Loans): 1.00
--Precision (High-Risk Loans): 0.86
--Recall (Healthy Loans): 1.00
--Recall (High-Risk Loans): 0.91
+ + Accuracy: 99%
+   
+ + Precision (Healthy Loans): 1.00
+   
+ + Precision (High-Risk Loans): 0.86
+   
+ + Recall (Healthy Loans): 1.00
+   
+ + Recall (High-Risk Loans): 0.91
 
 ## **Summary**
 The Logistic Regression model performed the best among the evaluated models, achieving an accuracy of 99% with perfect precision and recall for healthy loans, and strong scores for high-risk loans. This suggests that it is highly effective in identifying both loan types, which is crucial for minimizing financial risk.
